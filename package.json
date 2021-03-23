@@ -1,0 +1,20 @@
+{
+  "name": "bat-brave-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.35",
+    "ts-node": "^9.1.1",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "start:dev": "ts-node src/index.ts",
+    "build:run": "tsc && node src/index.js",
+    "run": "node src/index.js"
+  }
+}
