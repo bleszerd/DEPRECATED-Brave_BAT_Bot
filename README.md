@@ -37,4 +37,4 @@ A worker is a instance of Brave browser to get IDLE Basic Attention Token (BAT).
     
 On tests, AMD Processors appears better!
 
-**Does this project affect your company's conditions? Please contact `alive2k@programmer.net`.**
+**Does this project hurt your company's conditions? Please contact alive2k@programmer.net**
