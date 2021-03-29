@@ -36,3 +36,5 @@ A worker is a instance of Brave browser to get IDLE Basic Attention Token (BAT).
     - Linux OS, like Manjaro
     
 On tests, AMD Processors appears better!
+
+**Does this project affect your company's conditions? Please contact `alive2k@programmer.net`.**
