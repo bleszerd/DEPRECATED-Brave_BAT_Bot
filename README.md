@@ -1,4 +1,17 @@
 # Brave_BAT_Bot
+<br>
+<br>
+<br>
+<br>
+
+## Deprecated
+Check [this issue](https://github.com/bleszerd/Brave_BAT_Bot/issues/3) for info
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### How to use
 #### Linux
